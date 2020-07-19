@@ -54,11 +54,11 @@ const App = () => {
           onChange={updateSearch}
           className="search-bar"
           type="text"
-          placeholder="--Type the Foodname--@Developed By Rupam"
+          placeholder="Which Dish you want to prepare today?"
         />
 
         <button className="search-button" type="submit">
-          Submit
+          Search
         </button>
       </form>
       {/* map through recipes */}
