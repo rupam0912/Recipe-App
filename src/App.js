@@ -54,7 +54,7 @@ const App = () => {
           onChange={updateSearch}
           className="search-bar"
           type="text"
-          placeholder="@Developed By Rupam"
+          placeholder="--Type the Foodname--@Developed By Rupam"
         />
 
         <button className="search-button" type="submit">
